@@ -74,22 +74,6 @@ Enter three scores to compare:
 Largest score = 9.75
 ```
 
-## Screenshots
-| Menu | Student Records |
-|---|---|
-| ![Menu](menu.png) | ![Records](displayResult.png) |
-
-| Largest Score | Average |
-|---|---|
-| ![Largest](largestNum.png) | ![Average](averageValue.png) |
-
-| File Handling |
-|---|
- | ![File](savedDetails.png) |
-
-| Invalid Input | Exit |
-|---|---|
-| ![Invalid](invalid.png) | ![Exit](exit.png) |
 
 ## Author
 Saket kumar (20314803125) and Rahul Yadav (20414803125) 
